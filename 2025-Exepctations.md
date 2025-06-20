@@ -61,7 +61,7 @@ Nia
 Devon  
 Amante'  
 Jakiya  
-Kaylee  
+[Kaylee](https://github.com/purpleskates123)
 Denzel  
 [Silas](https://github.com/SilasVM)  
 [Emily](https://github.com/emmet0r)  
